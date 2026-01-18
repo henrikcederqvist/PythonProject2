@@ -29,3 +29,24 @@ print("Varje person får " + str(z))
 
 #Uppgift 3
 
+#1a
+
+tal = input("Ge mig ett tal: ")
+tal_int = int(tal)
+print("Du skrev detta tal: " + str(tal_int))
+
+#1b
+
+tal2 = input("Ge mig ett annat tal: ")
+tal2_int = int(tal2)
+
+sum_tal_tal2 = (tal_int + tal2_int)
+
+print("Summan av talen blir: " + str(sum_tal_tal2))
+
+#2a
+
+2a Nu är det dags att köpa vinterkläder. Du ser en fin jacka som kostar 2000 kronor. Jackan är på rea och kostar 75% av originalpriset. Skriv ett program som räknar ut hur mycket du behöver betala. Använd variabeln:  rea_procent = 75.0
+Tips: räkna ut rabatten med formeln: slut_pris = pris * rea_procent / 100.
+
+
