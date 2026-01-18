@@ -60,7 +60,12 @@ print("Slutpriset blir: " + str(slutpris))
 #Uppgift 4
 #1a
 
-#1a Det är ca 470 km mellan Stockholm och Göteborg.
-#Skriv ett program som räknar ut hur lång tid det tar att köra från Stockholm till Göteborg.
-#Du behöver fråga användaren hur fort man ska köra, i km/h.
-#Svara i timmar.
+avstånd = input("Hur långt är avståndet i km: ")
+hastighet = input("Hur fort kör du i km/h: ")
+avstånd_int = int(avstånd)
+hastighet_int = int(hastighet)
+tid = (avstånd_int / hastighet_int)
+
+
+print("Det tar: " + str(tid) + " timmar att köra sträckan.")
+

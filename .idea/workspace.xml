@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da5c4eaf-eb65-4a3a-8853-7ea10c9baefa" name="Changes" comment="Uppgift v2a">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="da5c4eaf-eb65-4a3a-8853-7ea10c9baefa" name="Changes" comment="Uppgift v4">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768650653548</updated>
       <workItem from="1768650654561" duration="3222000" />
-      <workItem from="1768760131993" duration="6289000" />
+      <workItem from="1768760131993" duration="6842000" />
     </task>
     <task id="LOCAL−00001" summary="En kommentar">
       <option name="closed" value="true" />
@@ -125,7 +124,14 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1768766592863</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Uppgift v4">
+      <option name="closed" value="true" />
+      <created>1768770182531</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1768770182531</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +143,8 @@
     <MESSAGE value="Uppgift v2" />
     <MESSAGE value="Uppgift v2.1" />
     <MESSAGE value="Uppgift v2a" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uppgift v2a" />
+    <MESSAGE value="Uppgift v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppgift v4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject2$main.coverage" NAME="main Coverage Results" MODIFIED="1768769964250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
