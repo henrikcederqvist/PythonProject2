@@ -85,3 +85,16 @@ timmar = int(tid_timmar)
 minuter = int((tid_timmar - timmar) * 60)
 
 print(f"Det tar: {timmar} timmar och {minuter} minuter att köra sträckan.")
+
+#3a
+
+from datetime import date
+print(date.today())
+
+#3b
+
+from datetime import date, timedelta
+idag = date.today()
+om_sju_dagar = idag + timedelta(days=7)
+print(f"Idag är det: {idag}")
+print(f"Om 7 dagar är det: {om_sju_dagar}")
