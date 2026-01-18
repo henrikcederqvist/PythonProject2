@@ -44,9 +44,23 @@ sum_tal_tal2 = (tal_int + tal2_int)
 
 print("Summan av talen blir: " + str(sum_tal_tal2))
 
-#2a
+#2a-b
 
-2a Nu är det dags att köpa vinterkläder. Du ser en fin jacka som kostar 2000 kronor. Jackan är på rea och kostar 75% av originalpriset. Skriv ett program som räknar ut hur mycket du behöver betala. Använd variabeln:  rea_procent = 75.0
-Tips: räkna ut rabatten med formeln: slut_pris = pris * rea_procent / 100.
+pris_jacka = input("Ge mig pris för jackan: ")
+rea_jacka = input("Ge mig reapriset på jackan: ")
+pris_jacka_int = int(pris_jacka)
+rea_jacka_float = float(rea_jacka)
+rabatt = (pris_jacka_int * rea_jacka_float) / 100
+slutpris = pris_jacka_int - rabatt
 
+print("Rabatten är: " + str(rabatt))
 
+print("Slutpriset blir: " + str(slutpris))
+
+#Uppgift 4
+#1a
+
+#1a Det är ca 470 km mellan Stockholm och Göteborg.
+#Skriv ett program som räknar ut hur lång tid det tar att köra från Stockholm till Göteborg.
+#Du behöver fråga användaren hur fort man ska köra, i km/h.
+#Svara i timmar.
