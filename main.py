@@ -21,4 +21,11 @@ print("Det blir " + str(pengar_kvar) + " kronor över.")
 print("Varje person får " + str(pengar_kvar_att_dela_på))
 
 
+x = 100 # biljettpris
+y = 200 # pengar på fickan
+print("Det blir " + str(y - x) + " kronor över.")
+z = (y - x)/ 2
+print("Varje person får " + str(z))
+
 #Uppgift 3
+
