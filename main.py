@@ -69,3 +69,19 @@ tid = (avstånd_int / hastighet_int)
 
 print("Det tar: " + str(tid) + " timmar att köra sträckan.")
 
+#1b
+
+avstånd = input("Hur långt är avståndet i km: ")
+hastighet = input("Hur fort kör du i km/h: ")
+
+avstånd_int = int(avstånd)
+hastighet_int = int(hastighet)
+
+# total tid i timmar
+tid_timmar = avstånd_int / hastighet_int
+
+# dela upp i timmar och minuter
+timmar = int(tid_timmar)
+minuter = int((tid_timmar - timmar) * 60)
+
+print(f"Det tar: {timmar} timmar och {minuter} minuter att köra sträckan.")
