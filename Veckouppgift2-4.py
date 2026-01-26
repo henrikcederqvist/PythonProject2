@@ -60,3 +60,9 @@ elif celsius >= 20:
     print("Packa badkläder!️")
 else:
     print("Lagom temperatur!")
+
+
+
+
+
+
