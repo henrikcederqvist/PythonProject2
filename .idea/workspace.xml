@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da5c4eaf-eb65-4a3a-8853-7ea10c9baefa" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Veckouppgifter/3/5-1/5-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veckouppgifter/3/5-1/5-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veckouppgifter/3/6/6-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veckouppgifter/3/6/6-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veckouppgifter/3/6/6-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/4/1/1a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/4/2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/5/examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/5/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/5/tests/test_examples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veckouppgifter/3/3/4-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veckouppgifter/3/4/4-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +57,11 @@
     "Python.1-4.executor": "Run",
     "Python.1-5.executor": "Run",
     "Python.1-6.executor": "Run",
+    "Python.1a.executor": "Run",
     "Python.2-1.executor": "Run",
     "Python.2-2.executor": "Run",
     "Python.2-3.executor": "Run",
+    "Python.2.executor": "Debug",
     "Python.3-1.executor": "Run",
     "Python.3-2.executor": "Run",
     "Python.3-3.executor": "Run",
@@ -109,7 +110,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
         <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
       </set>
     </attachedChunks>
@@ -125,7 +125,9 @@
       <workItem from="1768760131993" duration="7848000" />
       <workItem from="1769370593370" duration="8703000" />
       <workItem from="1769868724251" duration="4283000" />
-      <workItem from="1769873227294" duration="13844000" />
+      <workItem from="1769873227294" duration="13961000" />
+      <workItem from="1771183351089" duration="2479000" />
+      <workItem from="1772129273569" duration="16000" />
     </task>
     <task id="LOCAL−00001" summary="En kommentar">
       <option name="closed" value="true" />
@@ -246,7 +248,14 @@
       <option name="presentableId" value="LOCAL−00017" />
       <updated>1769963718206</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL−00018" summary="Update">
+      <option name="closed" value="true" />
+      <created>1769971858358</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1769971858358</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,25 +276,37 @@
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Veckouppgifter/4/2/2.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject2$main.coverage" NAME="main Coverage Results" MODIFIED="1769869820508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
     <SUITE FILE_PATH="coverage/PythonProject2$1_2.coverage" NAME="1-2 Coverage Results" MODIFIED="1769880567515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/1" />
-    <SUITE FILE_PATH="coverage/PythonProject2$5_1.coverage" NAME="5-1 Coverage Results" MODIFIED="1769970410158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/5-1" />
+    <SUITE FILE_PATH="coverage/PythonProject2$main.coverage" NAME="main Coverage Results" MODIFIED="1769869820508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
     <SUITE FILE_PATH="coverage/PythonProject2$for_loops.coverage" NAME="for_loops Coverage Results" MODIFIED="1769870588130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
+    <SUITE FILE_PATH="coverage/PythonProject2$1a.coverage" NAME="1a Coverage Results" MODIFIED="1771183676923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/4/1" />
+    <SUITE FILE_PATH="coverage/PythonProject2$6_1.coverage" NAME="6-1 Coverage Results" MODIFIED="1769970855930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/6" />
+    <SUITE FILE_PATH="coverage/PythonProject2$4_1.coverage" NAME="4-1 Coverage Results" MODIFIED="1769963761993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/4" />
+    <SUITE FILE_PATH="coverage/PythonProject2$3_3.coverage" NAME="3-3 Coverage Results" MODIFIED="1769963670987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/3" />
+    <SUITE FILE_PATH="coverage/PythonProject2$2_2.coverage" NAME="2-2 Coverage Results" MODIFIED="1769881144827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/2" />
+    <SUITE FILE_PATH="coverage/PythonProject2$1_6.coverage" NAME="1-6 Coverage Results" MODIFIED="1769880350757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3" />
+    <SUITE FILE_PATH="coverage/PythonProject2$1_4.coverage" NAME="1-4 Coverage Results" MODIFIED="1769877993058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3" />
+    <SUITE FILE_PATH="coverage/PythonProject2$Veckouppgift2_1.coverage" NAME="Veckouppgift2-1 Coverage Results" MODIFIED="1769430280302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject2$5_1.coverage" NAME="5-1 Coverage Results" MODIFIED="1769970410158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/5-1" />
     <SUITE FILE_PATH="coverage/PythonProject2$Veckouppgift2_5.coverage" NAME="Veckouppgift2-5 Coverage Results" MODIFIED="1769441594362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject2$6_2.coverage" NAME="6-2 Coverage Results" MODIFIED="1769971128366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/6" />
     <SUITE FILE_PATH="coverage/PythonProject2$3_2.coverage" NAME="3-2 Coverage Results" MODIFIED="1769883407542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3" />
     <SUITE FILE_PATH="coverage/PythonProject2$2_1.coverage" NAME="2-1 Coverage Results" MODIFIED="1769880955680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3" />
     <SUITE FILE_PATH="coverage/PythonProject2$lista.coverage" NAME="lista Coverage Results" MODIFIED="1769874227976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loop" />
-    <SUITE FILE_PATH="coverage/PythonProject2$6_1.coverage" NAME="6-1 Coverage Results" MODIFIED="1769970855930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/6" />
-    <SUITE FILE_PATH="coverage/PythonProject2$4_1.coverage" NAME="4-1 Coverage Results" MODIFIED="1769963761993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/4" />
-    <SUITE FILE_PATH="coverage/PythonProject2$3_3.coverage" NAME="3-3 Coverage Results" MODIFIED="1769963670987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/3" />
     <SUITE FILE_PATH="coverage/PythonProject2$3.coverage" NAME="3 Coverage Results" MODIFIED="1769882811626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3" />
-    <SUITE FILE_PATH="coverage/PythonProject2$1_6.coverage" NAME="1-6 Coverage Results" MODIFIED="1769880350757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3" />
-    <SUITE FILE_PATH="coverage/PythonProject2$2_2.coverage" NAME="2-2 Coverage Results" MODIFIED="1769881144827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/2" />
     <SUITE FILE_PATH="coverage/PythonProject2$5_2.coverage" NAME="5-2 Coverage Results" MODIFIED="1769970567019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/5-1" />
-    <SUITE FILE_PATH="coverage/PythonProject2$1_4.coverage" NAME="1-4 Coverage Results" MODIFIED="1769877993058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3" />
-    <SUITE FILE_PATH="coverage/PythonProject2$Veckouppgift2_1.coverage" NAME="Veckouppgift2-1 Coverage Results" MODIFIED="1769430280302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject2$6_3.coverage" NAME="6-3 Coverage Results" MODIFIED="1769971638906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter/3/6" />
     <SUITE FILE_PATH="coverage/PythonProject2$Veckouppgift2_2.coverage" NAME="Veckouppgift2-2 Coverage Results" MODIFIED="1769431213394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject2$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1769876816072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Veckouppgifter" />
