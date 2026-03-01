@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da5c4eaf-eb65-4a3a-8853-7ea10c9baefa" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/6/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/6/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/7/account_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/7/bank_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/7/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/7/tests/test_account_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veckouppgifter/7/tests/test_bank_account.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veckouppgifter/5/examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veckouppgifter/5/examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veckouppgifter/5/tests/test_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veckouppgifter/5/tests/test_examples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +59,7 @@
     "Python.1-4.executor": "Run",
     "Python.1-5.executor": "Run",
     "Python.1-6.executor": "Run",
+    "Python.1.executor": "Run",
     "Python.1a.executor": "Run",
     "Python.2-1.executor": "Run",
     "Python.2-2.executor": "Run",
@@ -75,6 +81,7 @@
     "Python.for_loops.executor": "Run",
     "Python.lista.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.product.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -97,11 +104,11 @@
       <recent name="C:\Users\Ceder\PycharmProjects\PythonProject2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ceder\PycharmProjects\PythonProject2\Veckouppgifter\7" />
       <recent name="C:\Users\Ceder\PycharmProjects\PythonProject2\Veckouppgifter\3" />
       <recent name="C:\Users\Ceder\PycharmProjects\PythonProject2\Veckouppgifter\4" />
       <recent name="C:\Users\Ceder\PycharmProjects\PythonProject2\Veckouppgifter\3\3" />
       <recent name="C:\Users\Ceder\PycharmProjects\PythonProject2\Veckouppgifter\3\2" />
-      <recent name="C:\Users\Ceder\PycharmProjects\PythonProject2\Veckouppgifter\3\1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -259,7 +266,14 @@
       <option name="presentableId" value="LOCAL−00019" />
       <updated>1772133038151</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL−00020" summary="Update">
+      <option name="closed" value="true" />
+      <created>1772135314956</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1772135314956</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
